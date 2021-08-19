@@ -1,0 +1,2 @@
+testing copy command
+raj.txt  rose.txt
