@@ -1,3 +1,7 @@
 hyndhavi is my daughter
-studying second class
-README.md  hyndhavi.txt  mama.txt  rajas.txt  ravi1.txt  raviraj.txt
+
+
+README.md  
+agastya is my son and atharva is also my son
+
+hyndhavi.txt  mama.txt  rajas.txt  ravi1.txt  raviraj.txt
