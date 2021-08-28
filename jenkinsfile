@@ -1,0 +1,27 @@
+pipeline{
+    agent any
+    stages{
+        
+        stage("install dependencies"){
+            steps{
+                echo "npm install
+                
+            }
+            
+        }
+        stage ('test'){
+            steps {
+                echo "testing appliction"
+            }
+        }
+        stage("deploy application"){
+            steps{
+                echo "application deploying"
+            }
+        }
+        
+    }
+     
+}
+
+
