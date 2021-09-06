@@ -1,5 +1,5 @@
 merging through bash
-
+learning new things
 README.md  
 raviraj.txt  
 rose.txt
