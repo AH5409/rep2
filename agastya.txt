@@ -1,0 +1,7 @@
+merging through bash
+learning new things
+README.md  
+raviraj.txt  
+rose.txt
+agastya.txt  
+mama.txt	   ravi1.txt  rose
